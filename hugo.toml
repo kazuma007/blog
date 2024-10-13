@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My website'
+title = 'Kazuma'
 theme = 'typo'
 
 [taxonomies]
@@ -18,7 +18,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am a Japanese Software Engineer working in Republic of Malta!
+I am a Japanese Software Engineer &#x1F1EF;&#x1F1F5; working in Republic of Malta &#x1F1F2;&#x1F1F9;
 """
 
 # Collection to display on home
