@@ -1,0 +1,7 @@
+/public/
+.env
+.DS_Store
+*~
+*.swp
+*.bak
+.hugo_build.lock
